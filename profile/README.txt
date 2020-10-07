@@ -1,13 +1,13 @@
 
 TITLE: 
-Profile - 100% Fully Responsive Free HTML5 Bootstrap Template
+Profile  
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by Ankit raj
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Website: https://araj108.github.io/My-Profile/profile/index.html
+Twitter: https://twitter.com/RajAnkiit
+Facebook: https://www.facebook.com/raj.ankit.948
 
 
 CREDITS:
